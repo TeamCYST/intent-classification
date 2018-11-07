@@ -1,87 +1,43 @@
-# Project Title
+# Intent Classification
 
-One Paragraph of project description goes here
+Intent Classification is one of the very first steps to take to when creating a very smart AI or chatbot. This is an open source project to gather data (i.e. statements, sentences or speech) and classify the data into it's respective intent class.
 
-## Getting Started
+## Why "Intent Classification"
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+When your brain receives a message, the first thing you subconsciously do is to get the intent of the message. Whether it's a greeting, a compliment or an insult, you can only determine that if you know the intent of the message and also spending sometime with fellow humans which is based on experience.
 
-### Prerequisites
+We would love to use AI to mimic this very simple yet complex process. In order to do this we would require data.
 
-What things you need to install the software and how to install them
+This data gathered will remain open source for further research enquiries in the area of Natural Language Processing (NLP), Machine Learning and Artificial Intelligence (AI).
 
-```
-Give examples
-```
+### Project Structure
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+The datasets can be found in the datasets folder. Each dataset is named after the intent of the statements/text it contains. The structure is as follows:
 
 ```
-Give the example
+[
+ {
+   "statement": "can i get the menu",
+   "intent": "menu"
+ }
+]
 ```
 
-And repeat
+### Contributing
 
-```
-until finished
-```
+You can contribute in a number of ways.
 
-End with an example of getting some data out of the system or using it for a little demo
+* Blog about this open source project. Let the world know what you think of this and how you think it can expand the field of AI in Ghana or Africa.
+* Create pull requests by forking this repository and adding the data that you have collected into the respective intent files.
+* You can also create new intent files. So feel free to not restrict yourself to intent files seen in this repository. You can add yours too and if it is awesome, you get a merge.
+* Report bugs and request features in the [issue tracker](https://github.com/TeamCYST/intent-classification/issues) and any ideas to improve the project structure and how to make the data collection process up to standard.
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+NOTE: Always remember to push to your own branch and never push to master.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the TeamCyst License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to our list of [contributors](https://github.com/TeamCYST/intent-classification/graphs/contributors).

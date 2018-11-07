@@ -1,0 +1,30 @@
+[
+  {
+    "statement": "bye",
+    "intent": "subscription"
+  },
+  {
+    "statement": "bye bye",
+    "intent": "subscription"
+  },
+  {
+    "statement": "goodbye",
+    "intent": "subscription"
+  },
+  {
+    "statement": "ttyl",
+    "intent": "subscription"
+  },
+  {
+    "statement": "talk to you later",
+    "intent": "subscription"
+  },
+  {
+    "statement": "see you later",
+    "intent": "subscription"
+  },
+  {
+    "statement": "i'm leaving",
+    "intent": "subscription"
+  }
+]

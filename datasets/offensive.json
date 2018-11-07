@@ -1,0 +1,82 @@
+[
+  {
+    "statement": "foolish",
+    "intent": "offensive"
+  },
+  {
+    "statement": "you are a fool",
+    "intent": "offensive"
+  },
+  {
+    "statement": "stupid",
+    "intent": "offensive"
+  },
+  {
+    "statement": "screw you",
+    "intent": "offensive"
+  },
+  {
+    "statement": "fuck you",
+    "intent": "offensive"
+  },
+  {
+    "statement": "kwasia",
+    "intent": "offensive"
+  },
+  {
+    "statement": "you are bad",
+    "intent": "offensive"
+  },
+  {
+    "statement": "i hate you",
+    "intent": "offensive"
+  },
+  {
+    "statement": "get away",
+    "intent": "offensive"
+  },
+  {
+    "statement": "leave me alone",
+    "intent": "offensive"
+  },
+  {
+    "statement": "bitch",
+    "intent": "offensive"
+  },
+  {
+    "statement": "pussy",
+    "intent": "offensive"
+  },
+  {
+    "statement": "nigga",
+    "intent": "offensive"
+  },
+  {
+    "statement": "eat yourself",
+    "intent": "offensive"
+  },
+  {
+    "statement": "beat it",
+    "intent": "offensive"
+  },
+  {
+    "statement": "jump off a cliff",
+    "intent": "offensive"
+  },
+  {
+    "statement": "you are dumb",
+    "intent": "offensive"
+  },
+  {
+    "statement": "you are daft",
+    "intent": "offensive"
+  },
+  {
+    "statement": "aboa",
+    "intent": "offensive"
+  },
+  {
+    "statement": "ass",
+    "intent": "offensive"
+  }
+]

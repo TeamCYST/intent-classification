@@ -1,0 +1,26 @@
+[
+  {
+    "statement": "hola",
+    "intent": "informal_greeting"
+  },
+  {
+    "statement": "hey",
+    "intent": "informal_greeting"
+  },
+  {
+    "statement": "hullo",
+    "intent": "informal_greeting"
+  },
+  {
+    "statement": "my guy",
+    "intent": "informal_greeting"
+  },
+  {
+    "statement": "ma guy",
+    "intent": "informal_greeting"
+  },
+  {
+    "statement": "yo",
+    "intent": "informal_greeting"
+  }
+]

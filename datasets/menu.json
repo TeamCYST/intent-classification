@@ -1,0 +1,102 @@
+[
+ {
+   "statement": "can i get the menu",
+   "intent": "menu"
+ },
+ {
+   "statement": "menu please",
+   "intent": "menu"
+ },
+ {
+   "statement": "where is the menu",
+   "intent": "menu"
+ },
+ {
+   "statement": "show me the menu",
+   "intent": "menu"
+ },
+ {
+   "statement": "help",
+   "intent": "menu"
+ },
+ {
+   "statement": "help me",
+   "intent": "menu"
+ },
+ {
+   "statement": "i need your help",
+   "intent": "menu"
+ },
+ {
+   "statement": "can you help me",
+   "intent": "menu"
+ },
+ {
+   "statement": "i need some help",
+   "intent": "menu"
+ },
+ {
+   "statement": "is there a menu",
+   "intent": "menu"
+ },
+ {
+   "statement": "what can you do",
+   "intent": "menu"
+ },
+ {
+   "statement": "please give me more options",
+   "intent": "menu"
+ },
+ {
+   "statement": "options",
+   "intent": "menu"
+ },
+ {
+   "statement": "what else can you do",
+   "intent": "menu"
+ },
+ {
+   "statement": "what services do you render",
+   "intent": "menu"
+ },
+ {
+   "statement": "mazzuma",
+   "intent": "menu"
+ },
+ {
+   "statement": "what is a mazzuma account",
+   "intent": "account"
+ },
+ {
+   "statement": "how can i put money into my mazzuma account",
+   "intent": "account"
+ },
+ {
+   "statement": "do i need a mazzuma account",
+   "intent": "account"
+ },
+ {
+   "statement": "how can i withdraw from my mazzuma account",
+   "intent": "account"
+ },
+ {
+   "statement": "how do i request money to top up mazzuma account",
+   "intent": "account"
+ },
+ {
+   "statement": "mazzuma",
+   "intent": "menu"
+ },
+ {
+   "statement": "mazzuma",
+   "intent": "menu"
+ },
+ {
+   "statement": "mazzuma",
+   "intent": "menu"
+ },
+ {
+   "statement": "mazzuma",
+   "intent": "menu"
+ }
+]

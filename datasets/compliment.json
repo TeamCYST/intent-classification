@@ -1,0 +1,126 @@
+[
+  {
+    "statement": "thank you",
+    "intent": "compliment"
+  },
+  {
+    "statement": "that was very helpful of you",
+    "intent": "compliment"
+  },
+  {
+    "statement": "thanks a lot",
+    "intent": "compliment"
+  },
+  {
+    "statement": "thanks",
+    "intent": "compliment"
+  },
+  {
+    "statement": "thank you",
+    "intent": "compliment"
+  },
+  {
+    "statement": "that was very helpful of you",
+    "intent": "compliment"
+  },
+  {
+    "statement": "thanks a lot",
+    "intent": "compliment"
+  },
+  {
+    "statement": "thanks",
+    "intent": "compliment"
+  },
+  {
+    "statement": "i love you",
+    "intent": "compliment"
+  },
+  {
+    "statement": "you are awesome",
+    "intent": "compliment"
+  },
+  {
+    "statement": "i like you",
+    "intent": "compliment"
+  },
+  {
+    "statement": "good job",
+    "intent": "compliment"
+  },
+  {
+    "statement": "i am impressed",
+    "intent": "compliment"
+  },
+  {
+    "statement": "excellent job",
+    "intent": "compliment"
+  },
+  {
+    "statement": "splendid",
+    "intent": "compliment"
+  },
+  {
+    "statement": "impressive job",
+    "intent": "compliment"
+  },
+  {
+    "statement": "outstanding performance",
+    "intent": "compliment"
+  },
+  {
+    "statement": "you are smart",
+    "intent": "compliment"
+  },
+  {
+    "statement": "nice",
+    "intent": "compliment"
+  },
+  {
+    "statement": "that's very impressive",
+    "intent": "compliment"
+  },
+  {
+    "statement": "i'm very impressed",
+    "intent": "compliment"
+  },
+  {
+    "statement": "that's sweet",
+    "intent": "compliment"
+  },
+  {
+    "statement": "sweet",
+    "intent": "compliment"
+  },
+  {
+    "statement": "nice",
+    "intent": "compliment"
+  },
+  {
+    "statement": "super",
+    "intent": "compliment"
+  },
+  {
+    "statement": "great",
+    "intent": "compliment"
+  },
+  {
+    "statement": "amazing",
+    "intent": "compliment"
+  },
+  {
+    "statement": ":)",
+    "intent": "compliment"
+  },
+  {
+    "statement": ":D",
+    "intent": "compliment"
+  },
+  {
+    "statement": ";)",
+    "intent": "compliment"
+  },
+  {
+    "statement": "8)",
+    "intent": "compliment"
+  }
+]

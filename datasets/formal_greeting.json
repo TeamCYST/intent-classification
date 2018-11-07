@@ -1,0 +1,38 @@
+[
+  {
+    "statement": "hi",
+    "intent": "formal_greeting"
+  },
+  {
+    "statement": "hello",
+    "intent": "formal_greeting"
+  },
+  {
+    "statement": "good day",
+    "intent": "formal_greeting"
+  },
+  {
+    "statement": "good morning",
+    "intent": "formal_greeting"
+  },
+  {
+    "statement": "morning",
+    "intent": "formal_greeting"
+  },
+  {
+    "statement": "good afternoon",
+    "intent": "formal_greeting"
+  },
+  {
+    "statement": "afternoon",
+    "intent": "formal_greeting"
+  },
+  {
+    "statement": "good evening",
+    "intent": "formal_greeting"
+  },
+  {
+    "statement": "evening",
+    "intent": "formal_greeting"
+  },
+]
